@@ -1,2 +1,2 @@
-# Gate---Tech
+# Gate-and-Tech
 demo purpose
